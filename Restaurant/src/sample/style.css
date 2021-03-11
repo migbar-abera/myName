@@ -1,0 +1,76 @@
+#pane{
+    -fx-background-image: url("1.jpg");
+   /* -fx-background-repeat: stretch;*/
+    -fx-background-size: 900 700;
+   /* -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);*/
+    -fx-background-position: center center;
+
+}
+#page{
+    -fx-background-image: url("1.jpg");
+   /* -fx-background-repeat: stretch;*/
+    -fx-background-size: 500 ;
+    -fx-background-position: center center;
+
+}
+
+#food{
+    -fx-background-image: url("pizza.jpg");
+    -fx-background-radius: 50 50 50 50;
+    -fx-background-size: 380;
+    -fx-background-radius:30;
+
+}
+
+#drink{
+    -fx-background-color: #90127190;
+    -fx-background-radius: 50 50 50 50;
+    -fx-background-radius:30;
+}
+
+#dessert{
+    -fx-background-color: #90127190;
+    -fx-background-radius:30;
+}
+
+#food2{
+    -fx-background-color: #90127190;
+    -fx-background-size: 380;
+    -fx-background-radius:30;
+
+}
+
+#drink2{
+    -fx-background-color: #90127190;
+    -fx-background-radius:30;
+}
+
+#dessert2{
+    -fx-background-color: #90127190;
+
+}
+.button{
+  -fx-background-color: #90127190;
+  -fx-text-fill:white;
+  -fx-font-weight:bold;
+  -fx-background-radius:30;
+
+}
+#table{
+ -fx-background-color: #708090;
+ }
+
+#vb{
+  -fx-background-color: #708090;
+}
+#title{
+  -fx-text-fill:white;
+}
+#lb{
+  -fx-text-fill:white;
+  -fx-font-weight:600;
+  -fx-font-size:20px;
+}
+#link{
+-fx-text-fill:white;
+}
